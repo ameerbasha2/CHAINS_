@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+env/
+.venv/
+campusx_env/
+campusx312_env/
+langchain_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# API keys
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
